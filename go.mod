@@ -1,4 +1,4 @@
-module gnp
+module github.com/JasonYao3/gnp
 
 go 1.22.1
 

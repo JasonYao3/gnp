@@ -2,9 +2,10 @@ package main
 
 import (
 	"flag"
-	tftp "gnp/ch06_Ensuring_UDP_Reliability"
 	"log"
 	"os"
+
+	tftp "github.com/JasonYao3/gnp/ch06_Ensuring_UDP_Reliability"
 )
 
 var (

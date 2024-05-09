@@ -3,13 +3,14 @@ package main
 import (
 	"flag"
 	"fmt"
-	"gnp/ch07_Unix_Domain_Sockets/creds/auth"
 	"log"
 	"net"
 	"os"
 	"os/signal"
 	"os/user"
 	"path/filepath"
+
+	"github.com/JasonYao3/gnp/ch07_Unix_Domain_Sockets/creds/auth"
 )
 
 func init() {
